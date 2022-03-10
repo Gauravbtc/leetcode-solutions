@@ -1,4 +1,4 @@
-# **Maximum sum array problem**
+# **Maximum sub array problem**
 
 ## **Problem**
 
